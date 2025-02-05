@@ -1,6 +1,6 @@
 /**
  * `next dev`: blocks streaming
- * `next start`: doesn't block streaming
+ * `next start`: blocks streaming
  */
 
 import { connection } from "next/server";
